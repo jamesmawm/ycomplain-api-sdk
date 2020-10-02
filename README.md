@@ -2,7 +2,7 @@
 SDK and documentation for API at YComplain.com
 
 # About this repo
-YComplain is a platform for everyone to view their complains.
+YComplain is a platform for everyone to air their complains.
 This repo contains the SDK for APIs at ycomplain.com.
 You may integrate this SDK into your site or app in future.
 
